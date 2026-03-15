@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&color=00C2FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Prins+Sayja;AI+Engineer+%7C+Data+Scientist;Machine+Learning+Developer;Building+Intelligent+Systems+with+AI" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Prins+Sayja;AI+Engineer+%7C+Data+Scientist;Machine+Learning+Developer;Building+Intelligent+Systems+with+AI" />
 
 </div>
 
@@ -12,9 +12,9 @@
 
 🤖 Passionate about **Artificial Intelligence, Machine Learning, and Data Engineering**
 
-🚀 Building **AI automation systems, ML models, and data pipelines**
+🚀 Building **AI automation systems, ML models, and scalable data pipelines**
 
-📊 Interested in **AI Agents, Computer Vision, NLP, and Scalable AI Systems**
+📊 Interested in **AI Agents, NLP, Computer Vision, and Data Engineering**
 
 ---
 
@@ -26,7 +26,7 @@
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### AI / Machine Learning
+### Machine Learning & AI
 
 ![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn)
 ![XGBoost](https://img.shields.io/badge/XGBoost-orange?style=for-the-badge)
@@ -52,9 +52,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrinsSayja01&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=PrinsSayja01&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinsSayja01&layout=compact&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinsSayja01&layout=compact&theme=tokyonight"/>
 
 </div>
 
@@ -90,19 +90,13 @@
 
 ---
 
-# 🧠 Featured AI Projects
+# 🐍 Contribution Snake
 
-### AI PASS Automation Platform
-AI powered document automation platform with **OCR, classification, and risk evaluation**
+<div align="center">
 
-### Customer Churn Prediction
-Machine learning system predicting telecom customer churn using **XGBoost & Random Forest**
+![Snake animation](https://github.com/PrinsSayja01/PrinsSayja01/blob/output/github-contribution-grid-snake.svg)
 
-### Resume Analyzer
-NLP system matching resumes with job descriptions using **SpaCy**
-
-### Gender & Age Detection
-Computer vision system using **OpenCV**
+</div>
 
 ---
 
@@ -130,19 +124,4 @@ Computer vision system using **OpenCV**
 
 ---
 
-# 🐍 Contribution Snake
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: PrinsSayja01
+⭐ From **Prins Sayja**
